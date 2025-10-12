@@ -32,8 +32,4 @@
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlos_lnly" height="30" width="40" />
    </a>
 
-  </p>
-  
-   <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/AdryanAlencar/adryanalencar/output/github-contribution-grid-snake.svg"/>
-  </div>
+

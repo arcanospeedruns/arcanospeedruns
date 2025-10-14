@@ -1,4 +1,4 @@
-- // Meu nome é Carlos Gouveia, e eu sou um estudante da Pontifícia Universidade Católica, bacharelando em Ciência da Computação, e cursando tecnólogo em Análise e Desenvolvimento de Sistemas e Design Gráfico. Além da minha paixão pela área de tecnologia. Pretendo trabalhar como Desenvolvedor Full-Stack e atualmente procuro estágio na área.
+- // Meu nome é Carlos Gouveia, e eu sou um estudante da Pontifícia Universidade Católica, bacharelando em Ciência da Computação, formado em Análise e Desenvolvimento de Sistemas e Design Gráfico. Pretendo trabalhar como Desenvolvedor Full-Stack e atualmente procuro estágio na área.
 
 <br>
 

@@ -1,11 +1,6 @@
 - // Meu nome é Carlos Gouveia, e eu sou um estudante da Pontifícia Universidade Católica, bacharelando em Ciência da Computação, formado em Análise e Desenvolvimento de Sistemas e Design Gráfico.
-
 <br>
 
-<div>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=itdobelonely&show_icons=true&theme=tokyonight" />
-</div>
-  
 <br>
   <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=itdobelonely&label=Profile%20views&color=444444&style=flat" alt="itdobelonely" /> 

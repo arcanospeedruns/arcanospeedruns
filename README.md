@@ -1,26 +1,22 @@
-- // Meu nome é Carlos Gouveia, e eu sou um estudante da Pontifícia Universidade Católica, bacharelando em Ciência da Computação, formado em Análise e Desenvolvimento de Sistemas e Design Gráfico.
-<br>
+## Carlos Gouveia
 
-<br>
-  <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=itdobelonely&label=Profile%20views&color=444444&style=flat" alt="itdobelonely" /> 
-</p>
- 
-  <div align="left">
-    <h3>Tenho Interesse Em:</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-     <img align="center" alt="nodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  </div>
-  
-  <h3 align="center">Onde me Encontrar:</h3>
- <p align="center">
-  
-   <a href="https://www.linkedin.com/in/carloslnly/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloslnly" height="30" width="40" />
-   </a>
+Analista de dados. Trabalho com pipelines em Python, qualidade de
+dados e dashboards que apoiam decisão.
 
+Bacharelando em Ciência da Computação na PUC-SP, graduado em Análise
+e Desenvolvimento de Sistemas e com formação técnica em Design Gráfico.
 
+**No que trabalho**
 
+- Construção de pipelines de ingestão, limpeza e padronização de dados
+- Auditoria e qualidade de dados: duplicidades, inconsistências, validação
+- Modelagem de bases e documentação de dicionários de variáveis
+- Dashboards e relatórios para áreas de negócio
+
+**Stack**
+
+`Python (pandas)` `SQL` `BigQuery` `Power BI` `Git` `Excel avançado`
+
+**Contato**
+
+[LinkedIn](https://linkedin.com/in/SEU-PERFIL) · carlosgouveia.g@gmail.com

@@ -19,4 +19,4 @@ e Desenvolvimento de Sistemas e com formação técnica em Design Gráfico.
 
 **Contato**
 
-[LinkedIn](https://linkedin.com/in/SEU-PERFIL) · carlosgouveia.g@gmail.com
+[LinkedIn](https://linkedin.com/in/carloslnly) · carlosgouveia.g@gmail.com

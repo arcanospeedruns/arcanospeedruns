@@ -11,7 +11,6 @@ Sistemas e tenho formação técnica em Design Gráfico.
 ### Projetos
 
 - **[Internações no SUS, 2015–2023](https://github.com/arcanospeedruns/datasus-analise)**: análise de 107 milhões de internações do SIH/SUS no BigQuery, com tratamento de problemas de qualidade da base e dashboard em Power BI.
-- **[UniRota](https://github.com/jvpbicalho/app-carona-universitaria)**: app de carona universitária, projeto ágil em equipe na PUC-SP, em que atuei como UX Designer.
 
 ### No que trabalho
 

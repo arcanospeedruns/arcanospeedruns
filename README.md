@@ -9,7 +9,7 @@ Sistemas e tenho formação técnica em Design Gráfico.
 
 Busco uma posição de estágio ou júnior em gestão de produto (Product Manager ou Product Owner).
 
-**Portfólio:** [arcanospeedruns.github.io](https://arcanospeedruns.github.io)
+**Portfólio:** [carlosgouveia.is-a.dev](https://carlosgouveia.is-a.dev)
 
 ### Experiência em produto
 
